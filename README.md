@@ -1,4 +1,7 @@
-# Notebook Index:
+# TAXI TIP PREDICTION MODEL
+In this notebook, I utilized historical data on taxi trips in New York to train a model that predicts the customer's tip amount.
+
+## Notebook Index:
 
 1. [Import Libraries](#import_libraries)
 2. [Load Data](#load_data)
