@@ -1,5 +1,5 @@
 # TAXI TIP PREDICTION MODEL
-In this notebook, I utilized historical data on taxi trips in New York to train a model that predicts the customer's tip amount.
+In this notebook, I utilized historical data on taxi trips in New York to train a model that predicts the customers' tip amount.
 
 ## Notebook Index:
 
